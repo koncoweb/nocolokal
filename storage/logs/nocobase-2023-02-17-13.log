@@ -295,3 +295,179 @@
 {"level":"info","message":"acl params","reqId":"c8a5b676-b995-4402-9fee-bfa15e0f27a5","timestamp":"2023-02-17T06:15:09.534Z"}
 {"level":"info","message":"acl parsedParams","reqId":"c8a5b676-b995-4402-9fee-bfa15e0f27a5","timestamp":"2023-02-17T06:15:09.618Z"}
 {"level":"info","message":"END: GET /api/roles/member/collections:list?pageSize=20&sort%5B%5D=sort&appends%5B%5D=fields&filter=%7B%22hidden%22%3A%7B%22%24isFalsy%22%3Atrue%7D%7D","req":{"action":{"actionName":"list","params":{"actionName":"list","appends":["fields"],"associatedIndex":"member","associatedName":"roles","filter":{"hidden":{"$isFalsy":true}},"pageSize":"20","resourceName":"collections","sort":["sort"]},"resourceName":"roles.collections","resourceOf":"member"},"header":{"x-hostname":"localhost","x-locale":"id-ID","x-role":"root","x-timezone":"+07:00"}},"reqId":"c8a5b676-b995-4402-9fee-bfa15e0f27a5","res":{"status":200},"responseTime":320,"timestamp":"2023-02-17T06:15:09.817Z"}
+{"level":"info","message":"BEGIN: POST /api/users:signout","reqId":"1593c681-61a7-444e-a4a5-6f2f92c10790","timestamp":"2023-02-17T06:30:34.757Z"}
+{"level":"info","message":"Current user id: 1","reqId":"1593c681-61a7-444e-a4a5-6f2f92c10790","timestamp":"2023-02-17T06:30:36.384Z"}
+{"can":null,"level":"info","message":"ctx permission","reqId":"1593c681-61a7-444e-a4a5-6f2f92c10790","skip":true,"timestamp":"2023-02-17T06:30:36.494Z"}
+{"level":"info","message":"acl params","reqId":"1593c681-61a7-444e-a4a5-6f2f92c10790","timestamp":"2023-02-17T06:30:36.509Z"}
+{"level":"info","message":"acl parsedParams","reqId":"1593c681-61a7-444e-a4a5-6f2f92c10790","timestamp":"2023-02-17T06:30:36.531Z"}
+{"level":"info","message":"END: POST /api/users:signout","req":{"action":{"actionName":"signout","params":{"actionName":"signout","resourceName":"users"},"resourceName":"users"},"header":{"x-hostname":"localhost","x-locale":"id-ID","x-role":"root","x-timezone":"+07:00"}},"reqId":"1593c681-61a7-444e-a4a5-6f2f92c10790","res":{"status":200},"responseTime":1864,"timestamp":"2023-02-17T06:30:36.584Z"}
+{"level":"info","message":"BEGIN: GET /dev-server/info?t=1676616131447","reqId":"07019367-005a-4f7c-a618-61e44b78b8cf","timestamp":"2023-02-17T06:42:11.798Z"}
+{"level":"info","message":"END: GET /dev-server/info?t=1676616131447","req":{},"reqId":"07019367-005a-4f7c-a618-61e44b78b8cf","res":{"status":200},"responseTime":316,"timestamp":"2023-02-17T06:42:12.101Z"}
+{"level":"info","message":"BEGIN: GET /dev-server/743/ejvbjwup/websocket","reqId":"a32c2bf1-6c70-4040-817a-4131e2cd33ea","timestamp":"2023-02-17T06:42:12.452Z"}
+{"level":"info","message":"END: GET /dev-server/743/ejvbjwup/websocket","req":{},"reqId":"a32c2bf1-6c70-4040-817a-4131e2cd33ea","res":{"status":200},"responseTime":4,"timestamp":"2023-02-17T06:42:12.456Z"}
+{"level":"info","message":"BEGIN: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616132493","reqId":"f50c3f8a-c16e-4dac-bb8c-ad1b4d3489d8","timestamp":"2023-02-17T06:42:12.522Z"}
+{"level":"info","message":"END: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616132493","req":{},"reqId":"f50c3f8a-c16e-4dac-bb8c-ad1b4d3489d8","res":{"status":200},"responseTime":4,"timestamp":"2023-02-17T06:42:12.526Z"}
+{"level":"info","message":"BEGIN: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616132538","reqId":"a30cf75c-1f6b-4095-aa59-4e1bb503be30","timestamp":"2023-02-17T06:42:12.536Z"}
+{"level":"info","message":"END: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616132538","req":{},"reqId":"a30cf75c-1f6b-4095-aa59-4e1bb503be30","res":{"status":200},"responseTime":3,"timestamp":"2023-02-17T06:42:12.539Z"}
+{"level":"info","message":"BEGIN: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616132586","reqId":"ea4a9c10-4c3d-40c0-a045-426b354dcaf4","timestamp":"2023-02-17T06:42:12.897Z"}
+{"level":"info","message":"END: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616132586","req":{},"reqId":"ea4a9c10-4c3d-40c0-a045-426b354dcaf4","res":{"status":200},"responseTime":7,"timestamp":"2023-02-17T06:42:12.904Z"}
+{"level":"info","message":"BEGIN: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616132924","reqId":"bb5de16b-ba2e-4e66-93af-f725baf8bd52","timestamp":"2023-02-17T06:42:12.923Z"}
+{"level":"info","message":"END: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616132924","req":{},"reqId":"bb5de16b-ba2e-4e66-93af-f725baf8bd52","res":{"status":200},"responseTime":3,"timestamp":"2023-02-17T06:42:12.926Z"}
+{"level":"info","message":"BEGIN: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616132939","reqId":"bcced96f-a5d5-49d4-bdb7-62ee0d461f8c","timestamp":"2023-02-17T06:42:12.938Z"}
+{"level":"info","message":"END: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616132939","req":{},"reqId":"bcced96f-a5d5-49d4-bdb7-62ee0d461f8c","res":{"status":200},"responseTime":3,"timestamp":"2023-02-17T06:42:12.941Z"}
+{"level":"info","message":"BEGIN: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616132955","reqId":"3b9f085e-7eb9-4262-8d24-03b864f5ab02","timestamp":"2023-02-17T06:42:12.954Z"}
+{"level":"info","message":"END: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616132955","req":{},"reqId":"3b9f085e-7eb9-4262-8d24-03b864f5ab02","res":{"status":200},"responseTime":4,"timestamp":"2023-02-17T06:42:12.958Z"}
+{"level":"info","message":"BEGIN: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616132971","reqId":"3db44329-c079-4850-b897-19cb9771db30","timestamp":"2023-02-17T06:42:12.969Z"}
+{"level":"info","message":"END: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616132971","req":{},"reqId":"3db44329-c079-4850-b897-19cb9771db30","res":{"status":200},"responseTime":4,"timestamp":"2023-02-17T06:42:12.973Z"}
+{"level":"info","message":"BEGIN: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616132987","reqId":"2d8d571c-735c-4999-9da4-27580723765d","timestamp":"2023-02-17T06:42:12.986Z"}
+{"level":"info","message":"END: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616132987","req":{},"reqId":"2d8d571c-735c-4999-9da4-27580723765d","res":{"status":200},"responseTime":29,"timestamp":"2023-02-17T06:42:13.016Z"}
+{"level":"info","message":"BEGIN: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616133030","reqId":"e7727c8f-0d5e-46e7-89bc-90097bedf6e4","timestamp":"2023-02-17T06:42:13.030Z"}
+{"level":"info","message":"END: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616133030","req":{},"reqId":"e7727c8f-0d5e-46e7-89bc-90097bedf6e4","res":{"status":200},"responseTime":8,"timestamp":"2023-02-17T06:42:13.037Z"}
+{"level":"info","message":"BEGIN: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616133049","reqId":"548f58f6-76b6-408e-88fb-5e6df3f99566","timestamp":"2023-02-17T06:42:13.050Z"}
+{"level":"info","message":"END: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616133049","req":{},"reqId":"548f58f6-76b6-408e-88fb-5e6df3f99566","res":{"status":200},"responseTime":4,"timestamp":"2023-02-17T06:42:13.054Z"}
+{"level":"info","message":"BEGIN: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616133065","reqId":"744cca5a-a59c-4d2a-bb73-89c3c270c043","timestamp":"2023-02-17T06:42:13.065Z"}
+{"level":"info","message":"END: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616133065","req":{},"reqId":"744cca5a-a59c-4d2a-bb73-89c3c270c043","res":{"status":200},"responseTime":5,"timestamp":"2023-02-17T06:42:13.070Z"}
+{"level":"info","message":"BEGIN: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616133082","reqId":"919e80b9-dd90-4f3a-b9e3-9f29153a878d","timestamp":"2023-02-17T06:42:13.081Z"}
+{"level":"info","message":"END: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616133082","req":{},"reqId":"919e80b9-dd90-4f3a-b9e3-9f29153a878d","res":{"status":200},"responseTime":6,"timestamp":"2023-02-17T06:42:13.086Z"}
+{"level":"info","message":"BEGIN: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616133108","reqId":"57599090-3a78-4506-a3c8-91e523697777","timestamp":"2023-02-17T06:42:13.107Z"}
+{"level":"info","message":"END: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616133108","req":{},"reqId":"57599090-3a78-4506-a3c8-91e523697777","res":{"status":200},"responseTime":2,"timestamp":"2023-02-17T06:42:13.109Z"}
+{"level":"info","message":"BEGIN: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616133120","reqId":"1e1bc479-49b4-4320-ad0c-46235533c66c","timestamp":"2023-02-17T06:42:13.118Z"}
+{"level":"info","message":"END: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616133120","req":{},"reqId":"1e1bc479-49b4-4320-ad0c-46235533c66c","res":{"status":200},"responseTime":3,"timestamp":"2023-02-17T06:42:13.121Z"}
+{"level":"info","message":"BEGIN: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616133133","reqId":"a1b21716-a62c-4889-94b4-01abe7a1255e","timestamp":"2023-02-17T06:42:13.132Z"}
+{"level":"info","message":"END: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616133133","req":{},"reqId":"a1b21716-a62c-4889-94b4-01abe7a1255e","res":{"status":200},"responseTime":4,"timestamp":"2023-02-17T06:42:13.137Z"}
+{"level":"info","message":"BEGIN: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616133149","reqId":"4dbf791f-4c91-4ea0-8f8d-476db831c46a","timestamp":"2023-02-17T06:42:13.148Z"}
+{"level":"info","message":"END: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616133149","req":{},"reqId":"4dbf791f-4c91-4ea0-8f8d-476db831c46a","res":{"status":200},"responseTime":3,"timestamp":"2023-02-17T06:42:13.151Z"}
+{"level":"info","message":"BEGIN: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616133163","reqId":"7e62e98c-04f5-451c-9121-783bae4392ec","timestamp":"2023-02-17T06:42:13.161Z"}
+{"level":"info","message":"END: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616133163","req":{},"reqId":"7e62e98c-04f5-451c-9121-783bae4392ec","res":{"status":200},"responseTime":4,"timestamp":"2023-02-17T06:42:13.165Z"}
+{"level":"info","message":"BEGIN: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616133175","reqId":"2798e97d-2745-4c49-8709-b7700901ef2a","timestamp":"2023-02-17T06:42:13.174Z"}
+{"level":"info","message":"END: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616133175","req":{},"reqId":"2798e97d-2745-4c49-8709-b7700901ef2a","res":{"status":200},"responseTime":5,"timestamp":"2023-02-17T06:42:13.179Z"}
+{"level":"info","message":"BEGIN: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616133191","reqId":"6e1a84fa-3110-40a1-a620-e6d445796328","timestamp":"2023-02-17T06:42:13.189Z"}
+{"level":"info","message":"END: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616133191","req":{},"reqId":"6e1a84fa-3110-40a1-a620-e6d445796328","res":{"status":200},"responseTime":2,"timestamp":"2023-02-17T06:42:13.191Z"}
+{"level":"info","message":"BEGIN: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616133204","reqId":"fe45b943-95e8-4c35-af68-873ba23264f9","timestamp":"2023-02-17T06:42:13.203Z"}
+{"level":"info","message":"END: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616133204","req":{},"reqId":"fe45b943-95e8-4c35-af68-873ba23264f9","res":{"status":200},"responseTime":4,"timestamp":"2023-02-17T06:42:13.207Z"}
+{"level":"info","message":"BEGIN: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616133218","reqId":"a24f2406-f693-422d-80c0-ca42557d90bd","timestamp":"2023-02-17T06:42:13.217Z"}
+{"level":"info","message":"END: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616133218","req":{},"reqId":"a24f2406-f693-422d-80c0-ca42557d90bd","res":{"status":200},"responseTime":3,"timestamp":"2023-02-17T06:42:13.220Z"}
+{"level":"info","message":"BEGIN: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616133232","reqId":"4cb512a5-bf33-40f2-b959-653ff962b737","timestamp":"2023-02-17T06:42:13.231Z"}
+{"level":"info","message":"END: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616133232","req":{},"reqId":"4cb512a5-bf33-40f2-b959-653ff962b737","res":{"status":200},"responseTime":6,"timestamp":"2023-02-17T06:42:13.237Z"}
+{"level":"info","message":"BEGIN: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616133249","reqId":"09858952-4d34-436a-9e9e-4643c12ed099","timestamp":"2023-02-17T06:42:13.248Z"}
+{"level":"info","message":"END: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616133249","req":{},"reqId":"09858952-4d34-436a-9e9e-4643c12ed099","res":{"status":200},"responseTime":4,"timestamp":"2023-02-17T06:42:13.251Z"}
+{"level":"info","message":"BEGIN: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616133262","reqId":"ed739f5d-5f97-4a52-a175-a5223af9788a","timestamp":"2023-02-17T06:42:13.261Z"}
+{"level":"info","message":"END: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616133262","req":{},"reqId":"ed739f5d-5f97-4a52-a175-a5223af9788a","res":{"status":200},"responseTime":5,"timestamp":"2023-02-17T06:42:13.266Z"}
+{"level":"info","message":"BEGIN: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616133278","reqId":"2b62b1bb-efdd-44c4-94b9-bf0383fab47a","timestamp":"2023-02-17T06:42:13.276Z"}
+{"level":"info","message":"END: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616133278","req":{},"reqId":"2b62b1bb-efdd-44c4-94b9-bf0383fab47a","res":{"status":200},"responseTime":3,"timestamp":"2023-02-17T06:42:13.279Z"}
+{"level":"info","message":"BEGIN: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616133295","reqId":"ff63ee40-f1b5-4be4-9a0f-32e0255b4ffa","timestamp":"2023-02-17T06:42:13.294Z"}
+{"level":"info","message":"END: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616133295","req":{},"reqId":"ff63ee40-f1b5-4be4-9a0f-32e0255b4ffa","res":{"status":200},"responseTime":4,"timestamp":"2023-02-17T06:42:13.298Z"}
+{"level":"info","message":"BEGIN: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616133311","reqId":"35bae6cd-96f5-4c3c-8228-623b56b25a9e","timestamp":"2023-02-17T06:42:13.310Z"}
+{"level":"info","message":"END: POST /dev-server/743/hsk0nwxn/xhr_streaming?t=1676616133311","req":{},"reqId":"35bae6cd-96f5-4c3c-8228-623b56b25a9e","res":{"status":200},"responseTime":4,"timestamp":"2023-02-17T06:42:13.314Z"}
+{"level":"info","message":"BEGIN: GET /signin","reqId":"930a775b-ae39-4e66-8723-703efa4731dc","timestamp":"2023-02-17T06:42:23.477Z"}
+{"level":"info","message":"END: GET /signin","req":{},"reqId":"930a775b-ae39-4e66-8723-703efa4731dc","res":{"status":200},"responseTime":6,"timestamp":"2023-02-17T06:42:23.483Z"}
+{"level":"info","message":"BEGIN: GET /umi.6b5b98b5.css","reqId":"e3de2822-4f7e-4e1f-b046-08f47b096be1","timestamp":"2023-02-17T06:42:26.090Z"}
+{"level":"info","message":"BEGIN: GET /umi.d6d8f031.js","reqId":"960f1ef0-b2b2-4acf-bb2b-e27984a4d23a","timestamp":"2023-02-17T06:42:26.091Z"}
+{"level":"info","message":"END: GET /umi.6b5b98b5.css","req":{},"reqId":"e3de2822-4f7e-4e1f-b046-08f47b096be1","res":{"status":200},"responseTime":154,"timestamp":"2023-02-17T06:42:26.244Z"}
+{"level":"info","message":"END: GET /umi.d6d8f031.js","req":{},"reqId":"960f1ef0-b2b2-4acf-bb2b-e27984a4d23a","res":{"status":200},"responseTime":154,"timestamp":"2023-02-17T06:42:26.245Z"}
+{"level":"info","message":"BEGIN: GET /api/app:getLang","reqId":"fdaeb55a-d42d-482e-b19a-2642f61cbc42","timestamp":"2023-02-17T06:42:30.071Z"}
+{"can":null,"level":"info","message":"ctx permission","reqId":"fdaeb55a-d42d-482e-b19a-2642f61cbc42","skip":true,"timestamp":"2023-02-17T06:42:30.081Z"}
+{"level":"info","message":"acl params","reqId":"fdaeb55a-d42d-482e-b19a-2642f61cbc42","timestamp":"2023-02-17T06:42:30.082Z"}
+{"level":"info","message":"acl parsedParams","reqId":"fdaeb55a-d42d-482e-b19a-2642f61cbc42","timestamp":"2023-02-17T06:42:30.438Z"}
+{"level":"info","message":"BEGIN: GET /api/app:getPlugins","reqId":"5d62d76c-3f5f-4072-907f-8e3da09ed655","timestamp":"2023-02-17T06:42:30.442Z"}
+{"can":null,"level":"info","message":"ctx permission","reqId":"5d62d76c-3f5f-4072-907f-8e3da09ed655","skip":true,"timestamp":"2023-02-17T06:42:30.443Z"}
+{"level":"info","message":"acl params","reqId":"5d62d76c-3f5f-4072-907f-8e3da09ed655","timestamp":"2023-02-17T06:42:30.444Z"}
+{"level":"info","message":"acl parsedParams","reqId":"5d62d76c-3f5f-4072-907f-8e3da09ed655","timestamp":"2023-02-17T06:42:30.444Z"}
+{"level":"info","message":"BEGIN: GET /favicon/site.webmanifest","reqId":"d665b7fd-0d93-4b03-a0ab-dfb5f625a28e","timestamp":"2023-02-17T06:42:30.448Z"}
+{"level":"info","message":"END: GET /api/app:getPlugins","req":{"action":{"actionName":"getPlugins","params":{"actionName":"getPlugins","resourceName":"app"},"resourceName":"app"},"header":{"x-hostname":"localhost","x-timezone":"+07:00"}},"reqId":"5d62d76c-3f5f-4072-907f-8e3da09ed655","res":{"status":200},"responseTime":348,"timestamp":"2023-02-17T06:42:30.790Z"}
+{"level":"info","message":"BEGIN: GET /favicon/favicon-32x32.png","reqId":"4e49d47a-4576-49ef-ae50-09e32a354e5a","timestamp":"2023-02-17T06:42:30.792Z"}
+{"level":"info","message":"END: GET /api/app:getLang","req":{"action":{"actionName":"getLang","params":{"actionName":"getLang","resourceName":"app"},"resourceName":"app"},"header":{"x-hostname":"localhost","x-timezone":"+07:00"}},"reqId":"fdaeb55a-d42d-482e-b19a-2642f61cbc42","res":{"status":200},"responseTime":3458,"timestamp":"2023-02-17T06:42:33.529Z"}
+{"level":"info","message":"BEGIN: GET /10.f607f420.async.js","reqId":"0da71ace-1627-4fe2-a88b-8ebcbd9beef4","timestamp":"2023-02-17T06:42:33.532Z"}
+{"level":"info","message":"END: GET /favicon/favicon-32x32.png","req":{},"reqId":"4e49d47a-4576-49ef-ae50-09e32a354e5a","res":{"status":200},"responseTime":2743,"timestamp":"2023-02-17T06:42:33.535Z"}
+{"level":"info","message":"END: GET /favicon/site.webmanifest","req":{},"reqId":"d665b7fd-0d93-4b03-a0ab-dfb5f625a28e","res":{"status":200},"responseTime":3089,"timestamp":"2023-02-17T06:42:33.537Z"}
+{"level":"info","message":"END: GET /10.f607f420.async.js","req":{},"reqId":"0da71ace-1627-4fe2-a88b-8ebcbd9beef4","res":{"status":200},"responseTime":66,"timestamp":"2023-02-17T06:42:33.598Z"}
+{"level":"info","message":"BEGIN: GET /18.35203dda.async.js","reqId":"949d5c2e-6006-45ad-a346-6b8117ef096a","timestamp":"2023-02-17T06:42:33.657Z"}
+{"level":"info","message":"END: GET /18.35203dda.async.js","req":{},"reqId":"949d5c2e-6006-45ad-a346-6b8117ef096a","res":{"status":200},"responseTime":1,"timestamp":"2023-02-17T06:42:33.658Z"}
+{"level":"info","message":"BEGIN: GET /6.8c194cea.async.js","reqId":"3cbaed14-f341-4f50-b818-b8fb0f74dcef","timestamp":"2023-02-17T06:42:33.740Z"}
+{"level":"info","message":"END: GET /6.8c194cea.async.js","req":{},"reqId":"3cbaed14-f341-4f50-b818-b8fb0f74dcef","res":{"status":200},"responseTime":1,"timestamp":"2023-02-17T06:42:33.741Z"}
+{"level":"info","message":"BEGIN: GET /1.5fa09c1b.async.js","reqId":"97882849-45d9-4cde-b40c-a1df48ddbad1","timestamp":"2023-02-17T06:42:33.787Z"}
+{"level":"info","message":"END: GET /1.5fa09c1b.async.js","req":{},"reqId":"97882849-45d9-4cde-b40c-a1df48ddbad1","res":{"status":200},"responseTime":2,"timestamp":"2023-02-17T06:42:33.789Z"}
+{"level":"info","message":"BEGIN: GET /9.8b0728a7.async.js","reqId":"dc954bb2-7ef3-44ed-a43f-e158a22f1662","timestamp":"2023-02-17T06:42:33.869Z"}
+{"level":"info","message":"END: GET /9.8b0728a7.async.js","req":{},"reqId":"dc954bb2-7ef3-44ed-a43f-e158a22f1662","res":{"status":200},"responseTime":2,"timestamp":"2023-02-17T06:42:33.870Z"}
+{"level":"info","message":"BEGIN: GET /13.f3c246be.async.js","reqId":"1ad4b7b5-6131-416a-a89c-90bf93148b29","timestamp":"2023-02-17T06:42:33.924Z"}
+{"level":"info","message":"END: GET /13.f3c246be.async.js","req":{},"reqId":"1ad4b7b5-6131-416a-a89c-90bf93148b29","res":{"status":200},"responseTime":15,"timestamp":"2023-02-17T06:42:33.939Z"}
+{"level":"info","message":"BEGIN: GET /5.38cde3b8.async.js","reqId":"d2c1d36c-7c89-40ed-a4b5-fa08c8128a8c","timestamp":"2023-02-17T06:42:33.970Z"}
+{"level":"info","message":"END: GET /5.38cde3b8.async.js","req":{},"reqId":"d2c1d36c-7c89-40ed-a4b5-fa08c8128a8c","res":{"status":200},"responseTime":1,"timestamp":"2023-02-17T06:42:33.971Z"}
+{"level":"info","message":"BEGIN: GET /7.cfa85432.async.js","reqId":"d1feed71-4e9b-40e9-9711-021af9d7888b","timestamp":"2023-02-17T06:42:34.011Z"}
+{"level":"info","message":"END: GET /7.cfa85432.async.js","req":{},"reqId":"d1feed71-4e9b-40e9-9711-021af9d7888b","res":{"status":200},"responseTime":1,"timestamp":"2023-02-17T06:42:34.012Z"}
+{"level":"info","message":"BEGIN: GET /20.8731c06a.async.js","reqId":"fa0f33e8-c19a-4982-bac8-4bec0d61d023","timestamp":"2023-02-17T06:42:34.051Z"}
+{"level":"info","message":"END: GET /20.8731c06a.async.js","req":{},"reqId":"fa0f33e8-c19a-4982-bac8-4bec0d61d023","res":{"status":200},"responseTime":3,"timestamp":"2023-02-17T06:42:34.053Z"}
+{"level":"info","message":"BEGIN: GET /12.6373b797.async.js","reqId":"76b9f26a-8a5f-463d-bc7e-583647352a89","timestamp":"2023-02-17T06:42:34.220Z"}
+{"level":"info","message":"END: GET /12.6373b797.async.js","req":{},"reqId":"76b9f26a-8a5f-463d-bc7e-583647352a89","res":{"status":200},"responseTime":1,"timestamp":"2023-02-17T06:42:34.222Z"}
+{"level":"info","message":"BEGIN: GET /4.678071a2.async.js","reqId":"a6c1716d-fd8a-4a16-973a-87ca85532508","timestamp":"2023-02-17T06:42:34.277Z"}
+{"level":"info","message":"BEGIN: GET /14.44521fd5.async.js","reqId":"02d5ecd5-2ac6-4ac9-9a18-01c91faedaba","timestamp":"2023-02-17T06:42:34.277Z"}
+{"level":"info","message":"END: GET /4.678071a2.async.js","req":{},"reqId":"a6c1716d-fd8a-4a16-973a-87ca85532508","res":{"status":200},"responseTime":1,"timestamp":"2023-02-17T06:42:34.278Z"}
+{"level":"info","message":"END: GET /14.44521fd5.async.js","req":{},"reqId":"02d5ecd5-2ac6-4ac9-9a18-01c91faedaba","res":{"status":200},"responseTime":2,"timestamp":"2023-02-17T06:42:34.279Z"}
+{"level":"info","message":"BEGIN: GET /3.5757fb2a.async.js","reqId":"bc394aa8-a308-4398-8eb1-1e4ee5ed46f0","timestamp":"2023-02-17T06:42:34.445Z"}
+{"level":"info","message":"BEGIN: GET /8.2190c12a.async.js","reqId":"b468126b-d155-400e-9f8f-d9f9789bbf58","timestamp":"2023-02-17T06:42:34.446Z"}
+{"level":"info","message":"END: GET /3.5757fb2a.async.js","req":{},"reqId":"bc394aa8-a308-4398-8eb1-1e4ee5ed46f0","res":{"status":200},"responseTime":6,"timestamp":"2023-02-17T06:42:34.451Z"}
+{"level":"info","message":"END: GET /8.2190c12a.async.js","req":{},"reqId":"b468126b-d155-400e-9f8f-d9f9789bbf58","res":{"status":200},"responseTime":6,"timestamp":"2023-02-17T06:42:34.452Z"}
+{"level":"info","message":"BEGIN: GET /api/app:getLang","reqId":"f7cba4bd-2c4b-41e7-9495-e7ed2e34685b","timestamp":"2023-02-17T06:42:34.604Z"}
+{"can":null,"level":"info","message":"ctx permission","reqId":"f7cba4bd-2c4b-41e7-9495-e7ed2e34685b","skip":true,"timestamp":"2023-02-17T06:42:34.607Z"}
+{"level":"info","message":"acl params","reqId":"f7cba4bd-2c4b-41e7-9495-e7ed2e34685b","timestamp":"2023-02-17T06:42:34.608Z"}
+{"level":"info","message":"acl parsedParams","reqId":"f7cba4bd-2c4b-41e7-9495-e7ed2e34685b","timestamp":"2023-02-17T06:42:34.608Z"}
+{"level":"info","message":"END: GET /api/app:getLang","req":{"action":{"actionName":"getLang","params":{"actionName":"getLang","resourceName":"app"},"resourceName":"app"},"header":{"x-hostname":"localhost","x-timezone":"+07:00"}},"reqId":"f7cba4bd-2c4b-41e7-9495-e7ed2e34685b","res":{"status":200},"responseTime":7,"timestamp":"2023-02-17T06:42:34.611Z"}
+{"level":"info","message":"BEGIN: GET /api/uiRoutes:getAccessible","reqId":"ff7c8b9a-a2a3-43a9-a6d1-6e820028b9b2","timestamp":"2023-02-17T06:42:34.631Z"}
+{"can":null,"level":"info","message":"ctx permission","reqId":"ff7c8b9a-a2a3-43a9-a6d1-6e820028b9b2","skip":true,"timestamp":"2023-02-17T06:42:34.639Z"}
+{"level":"info","message":"acl params","reqId":"ff7c8b9a-a2a3-43a9-a6d1-6e820028b9b2","timestamp":"2023-02-17T06:42:34.640Z"}
+{"level":"info","message":"acl parsedParams","reqId":"ff7c8b9a-a2a3-43a9-a6d1-6e820028b9b2","timestamp":"2023-02-17T06:42:34.640Z"}
+{"level":"info","message":"END: GET /api/uiRoutes:getAccessible","req":{"action":{"actionName":"getAccessible","params":{"actionName":"getAccessible","resourceName":"uiRoutes"},"resourceName":"uiRoutes"},"header":{"x-hostname":"localhost","x-locale":"en-US","x-timezone":"+07:00"}},"reqId":"ff7c8b9a-a2a3-43a9-a6d1-6e820028b9b2","res":{"status":200},"responseTime":36,"timestamp":"2023-02-17T06:42:34.667Z"}
+{"level":"info","message":"BEGIN: GET /api/systemSettings:get/1?appends=logo","reqId":"6f78c915-88a3-4da5-b55a-bf5d990f0338","timestamp":"2023-02-17T06:42:34.719Z"}
+{"can":null,"level":"info","message":"ctx permission","reqId":"6f78c915-88a3-4da5-b55a-bf5d990f0338","skip":true,"timestamp":"2023-02-17T06:42:34.723Z"}
+{"level":"info","message":"acl params","reqId":"6f78c915-88a3-4da5-b55a-bf5d990f0338","timestamp":"2023-02-17T06:42:34.723Z"}
+{"level":"info","message":"acl parsedParams","reqId":"6f78c915-88a3-4da5-b55a-bf5d990f0338","timestamp":"2023-02-17T06:42:34.723Z"}
+{"level":"info","message":"END: GET /api/systemSettings:get/1?appends=logo","req":{"action":{"actionName":"get","params":{"actionName":"get","appends":["logo"],"filterByTk":"1","resourceIndex":"1","resourceName":"systemSettings"},"resourceName":"systemSettings"},"header":{"x-hostname":"localhost","x-locale":"en-US","x-timezone":"+07:00"}},"reqId":"6f78c915-88a3-4da5-b55a-bf5d990f0338","res":{"status":200},"responseTime":24,"timestamp":"2023-02-17T06:42:34.743Z"}
+{"level":"info","message":"BEGIN: POST /api/users:signin?authenticator=password","reqId":"0df696d2-f494-4088-8fbf-4791a829e6d5","timestamp":"2023-02-17T06:43:12.884Z"}
+{"can":null,"level":"info","message":"ctx permission","reqId":"0df696d2-f494-4088-8fbf-4791a829e6d5","skip":true,"timestamp":"2023-02-17T06:43:12.979Z"}
+{"level":"info","message":"acl params","reqId":"0df696d2-f494-4088-8fbf-4791a829e6d5","timestamp":"2023-02-17T06:43:12.979Z"}
+{"level":"info","message":"acl parsedParams","reqId":"0df696d2-f494-4088-8fbf-4791a829e6d5","timestamp":"2023-02-17T06:43:12.980Z"}
+{"level":"info","message":"END: POST /api/users:signin?authenticator=password","req":{"action":{"actionName":"signin","params":{"actionName":"signin","authenticator":"password","resourceName":"users","values":{"email":"admin@nocobase.com","password":"admin123"}},"resourceName":"users"},"header":{"x-hostname":"localhost","x-locale":"en-US","x-timezone":"+07:00"}},"reqId":"0df696d2-f494-4088-8fbf-4791a829e6d5","res":{"status":200},"responseTime":552,"timestamp":"2023-02-17T06:43:13.436Z"}
+{"level":"info","message":"BEGIN: GET /api/app:getInfo","reqId":"b5b22c85-4db9-4ee4-b2ce-4dc6100fa26f","timestamp":"2023-02-17T06:43:13.592Z"}
+{"level":"info","message":"Current user id: 1","reqId":"b5b22c85-4db9-4ee4-b2ce-4dc6100fa26f","timestamp":"2023-02-17T06:43:13.610Z"}
+{"can":null,"level":"info","message":"ctx permission","reqId":"b5b22c85-4db9-4ee4-b2ce-4dc6100fa26f","skip":true,"timestamp":"2023-02-17T06:43:13.825Z"}
+{"level":"info","message":"acl params","reqId":"b5b22c85-4db9-4ee4-b2ce-4dc6100fa26f","timestamp":"2023-02-17T06:43:13.825Z"}
+{"level":"info","message":"acl parsedParams","reqId":"b5b22c85-4db9-4ee4-b2ce-4dc6100fa26f","timestamp":"2023-02-17T06:43:13.830Z"}
+{"level":"info","message":"END: GET /api/app:getInfo","req":{"action":{"actionName":"getInfo","params":{"actionName":"getInfo","resourceName":"app"},"resourceName":"app"},"header":{"x-hostname":"localhost","x-locale":"en-US","x-timezone":"+07:00"}},"reqId":"b5b22c85-4db9-4ee4-b2ce-4dc6100fa26f","res":{"status":200},"responseTime":253,"timestamp":"2023-02-17T06:43:13.844Z"}
+{"level":"info","message":"BEGIN: GET /api/users:check","reqId":"2f56baa6-ad30-419b-ae26-22c9001fc7f3","timestamp":"2023-02-17T06:43:13.859Z"}
+{"level":"info","message":"Current user id: 1","reqId":"2f56baa6-ad30-419b-ae26-22c9001fc7f3","timestamp":"2023-02-17T06:43:13.878Z"}
+{"can":null,"level":"info","message":"ctx permission","reqId":"2f56baa6-ad30-419b-ae26-22c9001fc7f3","skip":true,"timestamp":"2023-02-17T06:43:13.888Z"}
+{"level":"info","message":"acl params","reqId":"2f56baa6-ad30-419b-ae26-22c9001fc7f3","timestamp":"2023-02-17T06:43:13.888Z"}
+{"level":"info","message":"acl parsedParams","reqId":"2f56baa6-ad30-419b-ae26-22c9001fc7f3","timestamp":"2023-02-17T06:43:13.891Z"}
+{"level":"info","message":"END: GET /api/users:check","req":{"action":{"actionName":"check","params":{"actionName":"check","resourceName":"users"},"resourceName":"users"},"header":{"x-hostname":"localhost","x-locale":"en-US","x-timezone":"+07:00"}},"reqId":"2f56baa6-ad30-419b-ae26-22c9001fc7f3","res":{"status":200},"responseTime":35,"timestamp":"2023-02-17T06:43:13.908Z"}
+{"level":"info","message":"BEGIN: GET /api/uiSchemaTemplates:list?appends%5B%5D=collection&paginate=false","reqId":"17594f6d-d889-4809-aecf-bd88bac4f8f6","timestamp":"2023-02-17T06:43:13.919Z"}
+{"level":"info","message":"Current user id: 1","reqId":"17594f6d-d889-4809-aecf-bd88bac4f8f6","timestamp":"2023-02-17T06:43:13.930Z"}
+{"can":{"action":"list","resource":"uiSchemaTemplates","role":"root"},"level":"info","message":"ctx permission","reqId":"17594f6d-d889-4809-aecf-bd88bac4f8f6","skip":true,"timestamp":"2023-02-17T06:43:13.949Z"}
+{"level":"info","message":"acl params","reqId":"17594f6d-d889-4809-aecf-bd88bac4f8f6","timestamp":"2023-02-17T06:43:13.949Z"}
+{"level":"info","message":"acl parsedParams","reqId":"17594f6d-d889-4809-aecf-bd88bac4f8f6","timestamp":"2023-02-17T06:43:13.956Z"}
+{"level":"info","message":"END: GET /api/uiSchemaTemplates:list?appends%5B%5D=collection&paginate=false","req":{"action":{"actionName":"list","params":{"actionName":"list","appends":["collection"],"paginate":"false","resourceName":"uiSchemaTemplates"},"resourceName":"uiSchemaTemplates"},"header":{"x-hostname":"localhost","x-locale":"en-US","x-timezone":"+07:00"}},"reqId":"17594f6d-d889-4809-aecf-bd88bac4f8f6","res":{"status":200},"responseTime":87,"timestamp":"2023-02-17T06:43:14.006Z"}
+{"level":"info","message":"BEGIN: GET /api/collections:list?paginate=false&appends%5B%5D=fields&appends%5B%5D=fields.uiSchema&sort%5B%5D=sort&filter=%7B%7D","reqId":"d2b2a2f4-99d5-4a00-a689-e20025d6caf8","timestamp":"2023-02-17T06:43:14.023Z"}
+{"level":"info","message":"Current user id: 1","reqId":"d2b2a2f4-99d5-4a00-a689-e20025d6caf8","timestamp":"2023-02-17T06:43:14.047Z"}
+{"can":{"action":"list","resource":"collections","role":"root"},"level":"info","message":"ctx permission","reqId":"d2b2a2f4-99d5-4a00-a689-e20025d6caf8","skip":true,"timestamp":"2023-02-17T06:43:14.055Z"}
+{"level":"info","message":"acl params","reqId":"d2b2a2f4-99d5-4a00-a689-e20025d6caf8","timestamp":"2023-02-17T06:43:14.055Z"}
+{"level":"info","message":"acl parsedParams","reqId":"d2b2a2f4-99d5-4a00-a689-e20025d6caf8","timestamp":"2023-02-17T06:43:14.057Z"}
+{"level":"info","message":"END: GET /api/collections:list?paginate=false&appends%5B%5D=fields&appends%5B%5D=fields.uiSchema&sort%5B%5D=sort&filter=%7B%7D","req":{"action":{"actionName":"list","params":{"actionName":"list","appends":["fields","fields.uiSchema"],"filter":{},"paginate":"false","resourceName":"collections","sort":["sort"]},"resourceName":"collections"},"header":{"x-hostname":"localhost","x-locale":"en-US","x-timezone":"+07:00"}},"reqId":"d2b2a2f4-99d5-4a00-a689-e20025d6caf8","res":{"status":200},"responseTime":74,"timestamp":"2023-02-17T06:43:14.097Z"}
+{"level":"info","message":"BEGIN: GET /api/roles:check","reqId":"7a95289b-7a5b-4349-9cd3-fd6ef37658b5","timestamp":"2023-02-17T06:43:14.130Z"}
+{"level":"info","message":"Current user id: 1","reqId":"7a95289b-7a5b-4349-9cd3-fd6ef37658b5","timestamp":"2023-02-17T06:43:14.140Z"}
+{"can":{"action":"check","resource":"roles","role":"root"},"level":"info","message":"ctx permission","reqId":"7a95289b-7a5b-4349-9cd3-fd6ef37658b5","skip":true,"timestamp":"2023-02-17T06:43:14.143Z"}
+{"level":"info","message":"acl params","reqId":"7a95289b-7a5b-4349-9cd3-fd6ef37658b5","timestamp":"2023-02-17T06:43:14.144Z"}
+{"level":"info","message":"acl parsedParams","reqId":"7a95289b-7a5b-4349-9cd3-fd6ef37658b5","timestamp":"2023-02-17T06:43:14.145Z"}
+{"level":"info","message":"END: GET /api/roles:check","req":{"action":{"actionName":"check","params":{"actionName":"check","resourceName":"roles"},"resourceName":"roles"},"header":{"x-hostname":"localhost","x-locale":"en-US","x-timezone":"+07:00"}},"reqId":"7a95289b-7a5b-4349-9cd3-fd6ef37658b5","res":{"status":200},"responseTime":87,"timestamp":"2023-02-17T06:43:14.216Z"}
+{"level":"info","message":"BEGIN: GET /storage/uploads/b0f81cdd52a6a84956664c46b9fd4821.webp","reqId":"2cb859b0-f50e-4e07-8c90-98f84f8575d6","timestamp":"2023-02-17T06:43:14.276Z"}
+{"level":"info","message":"BEGIN: GET /api/uiSchemas:getJsonSchema/xh1mxs6genp","reqId":"52f38b09-a835-4335-9d75-a551e6ecc307","timestamp":"2023-02-17T06:43:14.398Z"}
+{"level":"info","message":"Current user id: 1","reqId":"52f38b09-a835-4335-9d75-a551e6ecc307","timestamp":"2023-02-17T06:43:14.407Z"}
+{"can":null,"level":"info","message":"ctx permission","reqId":"52f38b09-a835-4335-9d75-a551e6ecc307","skip":true,"timestamp":"2023-02-17T06:43:14.412Z"}
+{"level":"info","message":"acl params","reqId":"52f38b09-a835-4335-9d75-a551e6ecc307","timestamp":"2023-02-17T06:43:14.412Z"}
+{"level":"info","message":"acl parsedParams","reqId":"52f38b09-a835-4335-9d75-a551e6ecc307","timestamp":"2023-02-17T06:43:14.413Z"}
+{"level":"info","message":"END: GET /storage/uploads/b0f81cdd52a6a84956664c46b9fd4821.webp","req":{},"reqId":"2cb859b0-f50e-4e07-8c90-98f84f8575d6","res":{"status":200},"responseTime":200,"timestamp":"2023-02-17T06:43:14.477Z"}
+{"level":"info","message":"END: GET /api/uiSchemas:getJsonSchema/xh1mxs6genp","req":{"action":{"actionName":"getJsonSchema","params":{"actionName":"getJsonSchema","filterByTk":"xh1mxs6genp","resourceIndex":"xh1mxs6genp","resourceName":"uiSchemas"},"resourceName":"uiSchemas"},"header":{"x-hostname":"localhost","x-locale":"en-US","x-role":"root","x-timezone":"+07:00"}},"reqId":"52f38b09-a835-4335-9d75-a551e6ecc307","res":{"status":200},"responseTime":89,"timestamp":"2023-02-17T06:43:14.487Z"}
+{"level":"info","message":"BEGIN: GET /api/uiSchemas:getProperties/4s7frx07cp3","reqId":"e55b6773-f40f-46b3-96c1-f4dc3799c6ea","timestamp":"2023-02-17T06:43:14.574Z"}
+{"level":"info","message":"Current user id: 1","reqId":"e55b6773-f40f-46b3-96c1-f4dc3799c6ea","timestamp":"2023-02-17T06:43:14.584Z"}
+{"can":{"action":"getProperties","resource":"uiSchemas","role":"root"},"level":"info","message":"ctx permission","reqId":"e55b6773-f40f-46b3-96c1-f4dc3799c6ea","skip":true,"timestamp":"2023-02-17T06:43:14.590Z"}
+{"level":"info","message":"acl params","reqId":"e55b6773-f40f-46b3-96c1-f4dc3799c6ea","timestamp":"2023-02-17T06:43:14.590Z"}
+{"level":"info","message":"acl parsedParams","reqId":"e55b6773-f40f-46b3-96c1-f4dc3799c6ea","timestamp":"2023-02-17T06:43:14.592Z"}
+{"level":"info","message":"END: GET /api/uiSchemas:getProperties/4s7frx07cp3","req":{"action":{"actionName":"getProperties","params":{"actionName":"getProperties","filterByTk":"4s7frx07cp3","resourceIndex":"4s7frx07cp3","resourceName":"uiSchemas"},"resourceName":"uiSchemas"},"header":{"x-hostname":"localhost","x-locale":"en-US","x-role":"root","x-timezone":"+07:00"}},"reqId":"e55b6773-f40f-46b3-96c1-f4dc3799c6ea","res":{"status":200},"responseTime":22,"timestamp":"2023-02-17T06:43:14.596Z"}
